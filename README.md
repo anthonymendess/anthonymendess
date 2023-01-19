@@ -6,6 +6,7 @@
 -->
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonymendess)](https://github.com/anthonymendess/github-readme-stats)
 
 
 <div style="display: inline_block"><br>
